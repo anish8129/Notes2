@@ -1,0 +1,13 @@
+package com.way2learnonline.booking.application.internal.outboundservices;
+
+import com.way2learnonline.shareddomain.model.TransitPath;
+
+public class CargoRoutingServiceImpl implements CargoRoutingService {
+
+	@Override
+	public TransitPath findOptimalRoute(String originUnLocode, String destinationUnLocode, String deadline) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

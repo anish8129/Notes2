@@ -1,0 +1,14 @@
+package com.way2learnonline;
+
+
+
+// TODO -2 Configure corresponding annotation to enable config server 
+//@SpringBootApplication
+//@EnableConfigServer
+
+public class SpringCloudConfigServer {
+
+	public static void main(String[] args) {
+		SpringApplication.run(SpringCloudConfigServer.class, args);
+	}
+}

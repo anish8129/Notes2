@@ -1,0 +1,5 @@
+package com.way2learnonline.booking.application.internal.outboundservices;
+
+public interface CargoRoutingService {
+
+}

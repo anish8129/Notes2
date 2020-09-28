@@ -1,0 +1,5 @@
+spring:  application:    name: hystrix-dashboard
+turbine:  app-config: first-service,second-service
+
+server:
+  port: 5555

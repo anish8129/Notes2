@@ -1,0 +1,23 @@
+package com.way2learnonline.booking.application.internal.outboundservices;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+import org.springframework.web.client.RestTemplate;
+
+import com.way2learnonline.shareddomain.model.TransitPath;
+
+@Service
+public class CargoRoutingServiceImpl implements CargoRoutingService {
+	
+	
+
+	@Autowired
+	private RestTemplate restTemplate;
+
+	@Override
+	public TransitPath findOptimalRoute(String originUnLocode, String destinationUnLocode, String deadline) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1579798260451_0" label="Java Main Sources" name="Java Main Sources">
+<item elementID="=09-01-spring-cloud-config-server-solution/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=09-01-spring-cloud-config-server-solution/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=09-01-spring-cloud-config-server-start/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=09-01-spring-cloud-config-server-start/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=09-02-spring-cloud-config-client/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=09-02-spring-cloud-config-client/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=11-01-cargo-booking-sleuth-zipkin-solution/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=11-01-cargo-booking-sleuth-zipkin-solution/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1579798260480_1" label="Java Test Sources" name="Java Test Sources">
+<item elementID="=09-01-spring-cloud-config-server-solution/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=09-01-spring-cloud-config-server-start/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=09-02-spring-cloud-config-client/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=11-01-cargo-booking-sleuth-zipkin-solution/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1579925775154_5" label="01-mdm" name="01-mdm">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/01-message-producer" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/01-message-consumer-start" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/01-message-producer-start" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/01-message-consumer" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1579929486265_6" label="02-ddd" name="02-ddd">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/01-ddd-cargo-booking" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/04-ddd-cargo-tracking" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/01-ddd-cargo-booking-start" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/02-ddd-cargo-routing" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/03-ddd-cargo-handling" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1580010086899_7" label="03-eureka" name="03-eureka">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/03-02-cargobooking-start" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/03-03-cargo-routing-solution" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/03-01-eureka-start" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/03-01-eureka-solution" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/03-02-cargobooking-solution" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1580046691710_8" label="04-commons" name="04-commons">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/04-01-eureka-server" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/04-02-cargo-routing" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1580048542785_9" label="05-ribbon" name="05-ribbon">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/05-01-cargo-booking-ribbon-start" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/05-01-cargo-booking-ribbon-solution" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/05-02-cargo-booking-ribbon-loadbalanced-start" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/05-02-cargo-booking-ribbon-loadbalanced-solution" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1580147936104_10" label="06-hystrix" name="06-hystrix">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/06-01-cargo-booking-hystrix-solution" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/06-01-cargo-booking-hystrix-start" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/06-04-hystrixdashboard" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/06-03-hystrix-second-app" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/06-02-hystrix-first-app" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1580225706383_11" label="07-feign" name="07-feign">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/07-01-cargo-booking-feign-start" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/07-01-cargo-booking-feign-solution" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1580259201397_12" label="08-zuul" name="08-zuul">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/08-01-zuul-solution" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/08-01-zuul-start" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/08-02-cargo-booking-zuul-start" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/08-02-cargo-booking-zuul-solution" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1580261058453_13" label="09-spring-cloud-config-server" name="09-spring-cloud-config-server">
+<item elementID="=09-01-spring-cloud-config-server-start" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=09-01-spring-cloud-config-server-solution" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=09-02-spring-cloud-config-client" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1580292594064_14" label="10-elk" name="10-elk">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/10-01-cargo-booking-elk-solution" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1580295656086_15" label="11-sleuth-zipkin" name="11-sleuth-zipkin">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/11-02-cargo-routing-sleuth-zipkin-solution" type="4"/>
+<item elementID="=11-01-cargo-booking-sleuth-zipkin-solution" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1579798265519_2" label="Window Working Set" name="Aggregate for window 1579798265519"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1579924137697_3" label="Window Working Set" name="Aggregate for window 1579924137697"/>
+<mruList name="11-sleuth-zipkin"/>
+<mruList name="10-elk"/>
+<mruList name="09-spring-cloud-config-server"/>
+<mruList name="06-hystrix"/>
+<mruList name="04-commons"/>
+</workingSetManager>

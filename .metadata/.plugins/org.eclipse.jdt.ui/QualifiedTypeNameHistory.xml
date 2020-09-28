@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.way2learnonline.MySource"/>
+<fullyQualifiedTypeName name="com.way2learnonline.Greeting"/>
+<fullyQualifiedTypeName name="org.springframework.cloud.client.discovery.DiscoveryClient"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.net.URI"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+<fullyQualifiedTypeName name="com.way2learnonline.booking.application.internal.outboundservices.CargoRoutingService"/>
+<fullyQualifiedTypeName name="com.way2learnonline.booking.domain.model.valueobjects.CargoItinerary"/>
+<fullyQualifiedTypeName name="com.way2learnonline.booking.domain.model.valueobjects.Leg"/>
+<fullyQualifiedTypeName name="org.springframework.cloud.stream.annotation.Output"/>
+<fullyQualifiedTypeName name="org.springframework.messaging.MessageChannel"/>
+<fullyQualifiedTypeName name="org.springframework.integration.support.MessageBuilder"/>
+<fullyQualifiedTypeName name="org.springframework.cloud.stream.annotation.Input"/>
+<fullyQualifiedTypeName name="org.springframework.messaging.SubscribableChannel"/>
+<fullyQualifiedTypeName name="org.springframework.cloud.stream.annotation.StreamListener"/>
+<fullyQualifiedTypeName name="org.springframework.cloud.stream.annotation.EnableBinding"/>
+<fullyQualifiedTypeName name="com.way2learnonline.booking.infrastructure.infrastructure.brokers.CargoEventSource"/>
+<fullyQualifiedTypeName name="org.springframework.cloud.netflix.eureka.EnableEurekaClient"/>
+<fullyQualifiedTypeName name="com.way2learnonline.shareddomain.model.TransitPath"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="com.way2learnonline.booking.application.internal.outboundservices.CargoRoutingServiceImpl"/>
+<fullyQualifiedTypeName name="org.springframework.cloud.client.loadbalancer.LoadBalancerClient"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+<fullyQualifiedTypeName name="org.springframework.cloud.client.ServiceInstance"/>
+<fullyQualifiedTypeName name="org.springframework.cloud.client.loadbalancer.LoadBalanced"/>
+<fullyQualifiedTypeName name="org.springframework.cloud.netflix.hystrix.EnableHystrix"/>
+<fullyQualifiedTypeName name="com.netflix.hystrix.contrib.javanica.annotation.HystrixCommand"/>
+<fullyQualifiedTypeName name="com.netflix.hystrix.contrib.javanica.annotation.HystrixProperty"/>
+<fullyQualifiedTypeName name="org.springframework.cloud.openfeign.EnableFeignClients"/>
+<fullyQualifiedTypeName name="org.springframework.cloud.openfeign.FeignClient"/>
+<fullyQualifiedTypeName name="org.springframework.http.ResponseEntity"/>
+<fullyQualifiedTypeName name="java.lang.RuntimeException"/>
+<fullyQualifiedTypeName name="org.springframework.cloud.config.server.EnableConfigServer"/>
+<fullyQualifiedTypeName name="org.springframework.cloud.context.config.annotation.RefreshScope"/>
+<fullyQualifiedTypeName name="java.util.logging.Logger"/>
+<fullyQualifiedTypeName name="com.way2learnonline.booking.interfaces.rest.CargoBookingController"/>
+<fullyQualifiedTypeName name="org.slf4j.LoggerFactory"/>
+<fullyQualifiedTypeName name="org.slf4j.Logger"/>
+<fullyQualifiedTypeName name="com.way2learnonline.booking.interfaces.rest.CargoRoutingController"/>
+<fullyQualifiedTypeName name="org.springframework.cloud.netflix.turbine.EnableTurbine"/>
+<fullyQualifiedTypeName name="org.springframework.cloud.client.discovery.EnableDiscoveryClient"/>
+<fullyQualifiedTypeName name="org.springframework.boot.SpringApplication"/>
+<fullyQualifiedTypeName name="org.springframework.boot.autoconfigure.SpringBootApplication"/>
+</qualifiedTypeNameHistroy>
